@@ -10,7 +10,7 @@ for i in range (6):
     for spirocolor in ["red","magenta","cyan","blue","green","yellow","white"]:
 
         turtle.color(spirocolor)
-        turtle.circle(100)
+        turtle.circle(200)
         turtle.left(10)
         turtle.hideturtle()   
 
